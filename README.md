@@ -1,0 +1,2 @@
+# smrtgitrepository
+Do testów
